@@ -1,0 +1,12 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="url"
+        android:title="@string/pref_title_url"
+        android:defaultValue="@string/pref_value_url"
+        android:selectAllOnFocus="true"
+        android:inputType="textUri"
+        android:singleLine="true"
+        android:maxLines="1" />
+
+</PreferenceScreen>

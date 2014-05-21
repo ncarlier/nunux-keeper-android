@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nunux Keeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_send">Send to Keeper</string>
+
+    <string name="text_sending">Sending to Keeper...</string>
+    <string name="text_sent">Sent to Keeper :)</string>
+    <string name="text_error">Unable to send to Keeper :(</string>
+
+    <string name="text_connect">The application is not connected with a Nunux Keeper account. Click below to start connection.</string>
+    <string name="title_activity_oauth_access_token">Connect with Keeper</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- General settings -->
+    <string name="pref_header_general">General</string>
+    <!-- About settings -->
+    <string name="pref_header_about">About</string>
+
+    <!-- URL setting -->
+    <string name="pref_title_url">URL</string>
+    <string name="pref_description_url">Nunux Keeper server URL</string>
+    <string name="pref_value_url">http://keeper.nunux.org</string>
+
+    <!-- Version setting -->
+    <string name="pref_title_version">Version 0.1</string>
+</resources>
